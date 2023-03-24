@@ -1,0 +1,17 @@
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\bin\Debug\net6.0\TaskManagementSystem.Application.deps.json
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\bin\Debug\net6.0\TaskManagementSystem.Application.dll
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\bin\Debug\net6.0\TaskManagementSystem.Application.pdb
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\bin\Debug\net6.0\TaskManagementSystem.Core.dll
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\bin\Debug\net6.0\TaskManagementSystem.Infrastructure.dll
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\bin\Debug\net6.0\TaskManagementSystem.Core.pdb
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\bin\Debug\net6.0\TaskManagementSystem.Infrastructure.pdb
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.csproj.AssemblyReference.cache
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.AssemblyInfoInputs.cache
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.AssemblyInfo.cs
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.csproj.CoreCompileInputs.cache
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.csproj.CopyComplete
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.dll
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\refint\TaskManagementSystem.Application.dll
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\TaskManagementSystem.Application.pdb
+I:\Srinivas\projects\AngularApps\TaskManagementSystemAPI\TaskManagementSystem.Application\obj\Debug\net6.0\ref\TaskManagementSystem.Application.dll
